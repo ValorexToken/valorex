@@ -7,7 +7,7 @@
 - **Nazwa:** Valorex
 - **Symbol:** VLRX
 - **Całkowita podaż:** 1,000,000
-- **Adres kontraktu:** `0xYourTokenAddressHere`
+- **Adres kontraktu:** `0x913e32cba7fca71043f204e89536337cf9de00c0`
 
 ## Pliki w folderze
 - `logo.png` – logo tokena
