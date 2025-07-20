@@ -1,0 +1,4 @@
+Token Name: Valorex
+Token Symbol: VLRX
+Total Supply: 1,000,000
+Token Address: 0x913e32cba7fca71043f204e89536337cf9de00c0

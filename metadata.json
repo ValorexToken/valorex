@@ -1,0 +1,9 @@
+{
+    "name": "Valorex",
+    "symbol": "VLRX",
+    "supply": "1,000,000",
+    "address": "0xYourTokenAddressHere",
+    "logo": "logo.png",
+    "network": "BNB Smart Chain",
+    "decimals": 18
+}
